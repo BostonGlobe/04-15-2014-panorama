@@ -163,4 +163,6 @@ globe.graphic = function() {
 		$('#gf .instructions').remove();
 	});
 
+	globe.graphicLogSource('https://github.com/BostonGlobe/04-15-2014-panorama');
+
 };
