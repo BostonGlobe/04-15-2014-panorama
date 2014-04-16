@@ -1,0 +1,23 @@
+<div class='wrapper'>
+
+	{= if (Name && Name.length) { =}
+
+		<p class='title'>{{Name.replace("'", "’")}}{{Title && Title.length ? ', ' : ''}}{{Title.replace("'", "’")}}</p>
+		
+		{= if (Notable_for && Notable_for.length) { =}
+			<p class='notable-for'>{{Notable_for.replace("'", "’")}}</p>
+		{= } =}
+
+		{= if (Quote && Quote.length) { =}
+
+			<p class='quote'>“{{Quote.replace("'", "’")}}”</p>
+
+		{= } =}
+
+	{= } else { =}
+
+		<p class='title nodata'>unidentified</p>
+
+	{= } =}
+
+</div>

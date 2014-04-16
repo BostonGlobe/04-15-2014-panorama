@@ -1,0 +1,7 @@
+{
+  "name": "04-15-2014-photo",
+  "version": "0.0.0",
+  "dependencies": {
+    "Leaflet.draw": "~0.2.0"
+  }
+}

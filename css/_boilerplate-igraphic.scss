@@ -1,0 +1,34 @@
+/* full width content ----------------------------------------------------- */
+.section-nav {
+	display: none;
+}
+
+.article {
+	float: none;
+	width: 100%;
+	margin: 0;
+
+	/* hide default byline date ----------------------------------------------- */
+	> .byline {
+		display: none;
+	}
+}
+
+
+
+/* hide asides ------------------------------------------------------------ */
+.aside {
+	display:none;
+}
+
+
+
+/* style subtitle --------------------------------------------------------- */
+#gf p.subtitle {
+	font-size: 1.25em;
+	text-align: center;
+
+	font-family: $serifStrong;
+
+	margin:0 0 1.5em 0;
+}

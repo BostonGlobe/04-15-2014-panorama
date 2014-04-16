@@ -1,0 +1,15 @@
+{
+  "name": "Leaflet.draw",
+  "homepage": "https://github.com/rafanami/Leaflet.draw",
+  "version": "0.2.0",
+  "_release": "0.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.0",
+    "commit": "a4154cc61ce9b26e005ae43b1feba60181ee0704"
+  },
+  "_source": "git://github.com/rafanami/Leaflet.draw.git",
+  "_target": "~0.2.0",
+  "_originalSource": "Leaflet.draw",
+  "_direct": true
+}
