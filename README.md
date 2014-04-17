@@ -1,5 +1,7 @@
 # [04-01-2014-panorama](http://www.bostonglobe.com/2014/04/14/one-year-one-city/LJpXxSk22z1ifq6c06uQFM/story.html)
 
+![ONE YEAR, ONE CITY](https://cloud.githubusercontent.com/assets/370976/2725021/c0ed8708-c5a8-11e3-9a4b-3ef62bb9f9f9.jpg)
+
 This graphic was generated with [generator-globegraphic](https://github.com/BostonGlobe/generator-globegraphic). Consults its [README](https://github.com/BostonGlobe/generator-globegraphic) for more information.
 
 Please note: do not reproduce Boston Globe logos or fonts without written permission.
